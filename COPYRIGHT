@@ -1,0 +1,18 @@
+VoiceTrans2Subtitle
+Copyright (c) 2024 Aimixtech. All rights reserved.
+
+THIRD-PARTY COMPONENTS NOTICE
+This software uses the following open-source components, which are licensed under the MIT License:
+
+1. whisper.cpp
+   Copyright (c) 2023-2024 The ggml authors
+   Source: https://github.com/ggerganov/whisper.cpp
+
+2. whisper model weights
+   Copyright (c) 2022 OpenAI
+   Source: https://github.com/openai/whisper
+
+The MIT License text for these components can be found at their respective source URLs.
+These components' licenses require this notice to be included in all copies of this software.
+The use of these components does not grant any rights to this software beyond those 
+explicitly granted by Aimixtech.
