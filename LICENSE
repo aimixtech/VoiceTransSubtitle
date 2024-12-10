@@ -1,0 +1,51 @@
+VoiceTrans2Subtitle Software License Agreement
+
+Copyright (c) 2024 Aimixtech. All rights reserved.
+
+IMPORTANT: PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE SOFTWARE. BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE.
+
+1. License Grant
+   Subject to the terms and conditions of this License, Aimixtech grants you a limited, non-exclusive, non-transferable license to:
+   a) Use the software on a single computer for your personal or business use
+   b) Make one copy of the software for backup purposes only
+
+2. Restrictions
+   You may not:
+   a) Modify, reverse engineer, decompile, or disassemble the software
+   b) Rent, lease, lend, sell, redistribute or sublicense the software
+   c) Copy the software except as expressly permitted in this License
+   d) Remove or alter any proprietary notices on the software
+   e) Transfer the software to another person or entity
+
+3. Ownership
+   The software is protected by copyright and other intellectual property laws. Aimixtech owns all rights, title, and interest in and to the software, including all intellectual property rights.
+
+4. Updates and Maintenance
+   Aimixtech may, at its discretion, provide updates or modifications to the software. Such updates may be subject to additional terms or fees.
+
+5. Warranty Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+6. Limitation of Liability
+   IN NO EVENT SHALL AIMIXTECH BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. Term and Termination
+   This License is effective until terminated. Your rights under this License will terminate automatically without notice if you fail to comply with any of its terms.
+
+8. General
+   This License constitutes the entire agreement between you and Aimixtech regarding the use of the software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+Third-Party Components Notice:
+This software includes certain open-source components, which are used under the following licenses:
+
+1. whisper.cpp
+   Copyright (c) 2023-2024 The ggml authors
+   Used under the MIT License
+   Source: https://github.com/ggerganov/whisper.cpp
+
+2. whisper model weights
+   Copyright (c) 2022 OpenAI
+   Used under the MIT License
+   Source: https://github.com/openai/whisper
+
+The full text of the MIT License for these components can be found at their respective source URLs. The use of these components in this software does not grant you any rights to this software beyond those explicitly granted in this License Agreement.
